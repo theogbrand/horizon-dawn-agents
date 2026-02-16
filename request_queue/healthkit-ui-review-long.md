@@ -5,8 +5,8 @@ description: >-
   fonts, and interactions for my dashboard app. Create a Live Preview of the app
   running, so I can manually monitor the changes you make to the UI.
 repo: 'https://github.com/theogbrand/ralph-healthkit-view'
-number_of_sandboxes: 2
+number_of_sandboxes: 1
 status: Needs Research
-id: TEST-AGI-88
+id: TEST-AGI-67
 ---
 
